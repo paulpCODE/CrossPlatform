@@ -1,0 +1,15 @@
+C:\Users\paulp\source\Storage\Shar\4c\1s\Crossplatfoprm\lab2\lab2\obj\Debug\net6.0\lab2.csproj.AssemblyReference.cache
+C:\Users\paulp\source\Storage\Shar\4c\1s\Crossplatfoprm\lab2\lab2\obj\Debug\net6.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulp\source\Storage\Shar\4c\1s\Crossplatfoprm\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfoInputs.cache
+C:\Users\paulp\source\Storage\Shar\4c\1s\Crossplatfoprm\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfo.cs
+C:\Users\paulp\source\Storage\Shar\4c\1s\Crossplatfoprm\lab2\lab2\obj\Debug\net6.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\paulp\source\Storage\Shar\4c\1s\Crossplatfoprm\lab2\lab2\bin\Debug\net6.0\lab2.exe
+C:\Users\paulp\source\Storage\Shar\4c\1s\Crossplatfoprm\lab2\lab2\bin\Debug\net6.0\lab2.deps.json
+C:\Users\paulp\source\Storage\Shar\4c\1s\Crossplatfoprm\lab2\lab2\bin\Debug\net6.0\lab2.runtimeconfig.json
+C:\Users\paulp\source\Storage\Shar\4c\1s\Crossplatfoprm\lab2\lab2\bin\Debug\net6.0\lab2.dll
+C:\Users\paulp\source\Storage\Shar\4c\1s\Crossplatfoprm\lab2\lab2\bin\Debug\net6.0\lab2.pdb
+C:\Users\paulp\source\Storage\Shar\4c\1s\Crossplatfoprm\lab2\lab2\obj\Debug\net6.0\lab2.dll
+C:\Users\paulp\source\Storage\Shar\4c\1s\Crossplatfoprm\lab2\lab2\obj\Debug\net6.0\refint\lab2.dll
+C:\Users\paulp\source\Storage\Shar\4c\1s\Crossplatfoprm\lab2\lab2\obj\Debug\net6.0\lab2.pdb
+C:\Users\paulp\source\Storage\Shar\4c\1s\Crossplatfoprm\lab2\lab2\obj\Debug\net6.0\lab2.genruntimeconfig.cache
+C:\Users\paulp\source\Storage\Shar\4c\1s\Crossplatfoprm\lab2\lab2\obj\Debug\net6.0\ref\lab2.dll
